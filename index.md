@@ -40,10 +40,7 @@ accessibility issues, such as how people with disabilities and older
 people use the web with [adaptive strategies](#strategies){:.termref} and
 [assistive technologies](#at){:.termref}.
 
-Involving users early helps you implement more effective accessibility
-solutions. It also broadens your perspective in a way that can lead you
-to discover new ways of thinking about your product that will make it
-work better for more people in more situations.
+Involving users early helps you implement more effective accessibility solutions. It also broadens your perspective in a way that can lead you to discover new ways of thinking about your product. This will make your product work better for more people in more situations.
 
 This applies when designing and developing:
 
@@ -71,7 +68,7 @@ project stakeholders.
 ### **Better Accessibility and Better Usability** for All Users
 
 When developers understand accessibility issues, they can implement
-**more effective** accessibility solutions; for example, their website
+**more effective** accessibility solutions. For example, their website
 will work better and be more usable for people with disabilities, older
 users, and [other target
 groups](http://www.w3.org/WAI/bcase/soc#groups). Making websites and web
@@ -80,7 +77,7 @@ general usability for everybody, including people *without*
 disabilities. (You could say that involving users with disabilities in
 your development project gives you **improved usability** for free.)
 
-This benefits not only users, but also stakeholders; for example, when
+This benefits not only users, but also stakeholders. For example, when
 websites get [increased
 use](http://www.w3.org/WAI/bcase/fin.html#increase-use) and other
 [business benefits](http://www.w3.org/WAI/bcase/) from increased
@@ -90,7 +87,7 @@ accessibility.
 
 Including users in the development process helps you **more efficiently
 develop** accessible products that work well for real users in real
-situations, thus [maximizing your return on investment
+situations. As a result, you [maximize your return on investment
 (ROI)](http://www.w3.org/WAI/bcase/) in accessibility.
 
 When you understand how people use the web and your particular product,
@@ -99,7 +96,7 @@ you can:
 -   plan accessibility into appropriate project phases from the
     beginning
 -   more quickly develop accessibility solutions
--   make informed decisions between different options, avoid wasting
+-   make informed decisions between different options, and avoid wasting
     time guessing
 -   limit having to go back and fix problems
 -   avoid having to make compromises later because you waited too long
@@ -114,10 +111,7 @@ All these benefit developers, project managers, and other stakeholders.
 
 When designers and developers see people with disabilities use products
 like theirs, most are highly motivated by a new understanding of
-accessibility. Rather than seeing accessibility as only a checklist
-item, the real-life experience shows the human side of accessibility.
-Designers and developers get a different level of understanding of the
-opportunity for their work to impact lives.
+accessibility. The real-life experience shows the human side of accessibility. This reduces the perception that accessibility should only be a checklist item. Designers and developers get a different level of understanding of their work's potential to impact lives.
 
 When managers and stakeholders share such experiences of people with
 disabilities using their products, it often helps get resources budgeted
@@ -126,13 +120,10 @@ and scheduled to address accessibility well.
 How to Involve Users throughout Your Project {#range}
 ------------------------------------------------------
 
-This section focuses on including real people in the process. Note that
-accessibility considerations should be addressed even earlier in the
-project; really from project inception so that accessibility is
-considered early in project planning, budgeting, scheduling, and such.
+This section focuses on including real people in the process. Note that you should address accessibility at the earliest stage of the project. Consider accessibility during planning, budgeting,  scheduling and such.
 Accessibility should also be included in your [user-centered design
 processes (UCD)](http://www.w3.org/WAI/redesign/ucd) or other design
-methodologies and techniques; for example, ensure that the use cases,
+methodologies and techniques. For example, ensure that the use cases,
 user analysis, personas, scenarios, workflows, design walkthroughs, etc.
 include people with disabilities and older users.
 
@@ -150,8 +141,8 @@ As early as possible in your project:
 2.  Find people with disabilities, with a range of characteristics. See
     [Getting a Range of Users](#diverse) and [Working with Users](#with)
     below.
-3.  Early on, learn about general issues related to what you are
-    developing, *e.g., websites, web tools, standards, or other
+3.  Learn about general issues related to what you are
+    developing early on. *For example, websites, web tools, standards, or other
     products*. Ask people to show you websites or related products that
     work well for them. Then, ask them to show you problems in products
     that do not work well. Ask lots of questions to help you understand
@@ -161,10 +152,7 @@ As early as possible in your project:
 
 For example, for websites, web applications, and web tools:
 
-4.  When you are considering a specific design aspect, such as
-    expanding/collapsing navigation, find other products that are
-    already doing it and have users explore with you what works well and
-    what does not.
+4.  Find other products providing similar functions of specific design aspects you are considering. For example, expanding or collapsing navigation. Then ask users to explore with you what works well and what does not in these products.
 5.  Throughout your design and development, ask users to review
     prototypes. Give them specific tasks to complete and see how the
     different aspects of the design and coding could be improved. Ask
@@ -178,11 +166,11 @@ Conclusions and Reporting](http://www.w3.org/WAI/eval/users#drawing).
 
 ### Carefully Consider Input
 
-<mark><strong>Caution:</strong> Carefully consider all input and avoid assuming that input from one person with a disability applies to all people with disabilities.</mark>
+<mark><strong>Caution:</strong> Carefully consider all input. Avoid assuming that input from one person with a disability applies to all people with disabilities.</mark>
 
 A person with a disability does not
 necessarily know how other people with the same disability interact with
-the web, nor know enough about other disabilities to provide valid
+the web. They also may not know enough about other disabilities to provide valid
 guidance on other accessibility issues. Getting input from a range of
 users is best.
 
@@ -194,8 +182,8 @@ experiences, expectations, and preferences. They use diverse interaction
 techniques, [adaptive strategies](#strategies){:.termref}, and [assistive
 technology](#at){:.termref} configurations. People have different
 disabilities: auditory, cognitive, neurological, physical, speech, and
-visual — and some have multiple disabilities. Even within one category,
-there is extreme variation; for example, "visual disability" includes
+visual. Some people have multiple disabilities. Even within one category,
+there is extreme variation. For example, "visual disability" includes
 people who have been totally blind since birth, people who have
 distortion in their central vision from age-related degeneration, and
 people who temporarily have blurry vision from an injury or disease.
@@ -205,7 +193,7 @@ characteristics](#userchars){.termref}. Most projects have limited time
 and budget and cannot include many different users. Selecting the
 optimum number of users with the best suited characteristics can be
 difficult. There are resources on the web that provide guidance on
-selecting participants with disabilities; for example, [determining
+selecting participants with disabilities. For example, [determining
 participant characteristics](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics)
 and [finding participants with disabilities](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting).
 
@@ -215,7 +203,7 @@ A primary consideration in selecting users is their experience
 interacting with the web. For example, some [assistive
 technologies](#at){.termref} (AT) are complicated and difficult to
 learn. A user with insufficient experience may not know how to use the
-AT effectively. On the other hand, a very advanced user might know
+AT effectively. But a very advanced user might know
 uncommon work-arounds to overcome problems in a website that the
 "average" user would not be able to handle.
 
@@ -251,9 +239,9 @@ Combine User Involvement with Standards
 ------------------------------------------------
 {:#stds}
 
-While including users with disabilities and older users with
+Including users with disabilities and older users with
 accessibility needs is key to making your accessibility efforts more
-effective and more efficient, that alone cannot address all issues. Even
+effective and more efficient. But that alone cannot address all issues. Even
 large projects cannot cover the [diversity](#diverse) of disabilities,
 adaptive strategies, and assistive technologies. That is **the role of
 accessibility standards**.
@@ -295,14 +283,14 @@ Terminology {#terms}
 
 **adaptive strategies**{#strategies}
 :   Adaptive strategies are techniques that people with disabilities use
-    to improve interaction with the web, such as increasing the font
+    to improve interaction with the web. for example, increasing the font
     size in a common browser. Adaptive strategies include techniques
     with mainstream browsers or with [assistive
     technologies](#at){.termref}.
 
 **assistive technologies**{:#at}
 :   Assistive technologies are software or equipment that people with
-    disabilities use to improve interaction with the web, such as
+    disabilities use to improve interaction with the web. For example,
     [**screen readers**]{#screenreader} that read aloud web pages for
     people who cannot read text, **screen magnifiers** for people with
     some types of low vision, and **voice recognition software** and
@@ -313,7 +301,7 @@ Terminology {#terms}
 :   User characteristics typically include things like age, job
     responsibilities, software, hardware, environment (for example,
     home, shared office, private office, shared public terminal),
-    computer experience, and web experience.User characteristics can
+    computer experience, and web experience. User characteristics can
     also include type of disability, [adaptive
     strategies](#strategies){.termref} used, and experience with
     specific [assistive technologies](#at){.termref}.
