@@ -4,21 +4,6 @@ permalink: /plan/involving-users/
 date: 2016-05-08
 layout: default
 redirect_from: /
-people:
-  editorslabel: "Editor"
-  editors:
-    - name: Kevin White
-      url: https://www.w3.org/People/kevin/
-    - name: Shadi Abou-Zahra
-      url: https://www.w3.org/People/Shadi/
-  contributors:
-    - name: Judy Brewer
-      url: https://www.w3.org/People/Brewer/
-    - name: Shawn Lawton Henry
-      url: https://www.w3.org/People/Shawn/
-support:
-  - name: WAI-ACT Project, a project of the European Commission IST Programme
-    url: http://www.w3.org/WAI/ACT/
 ---
 
 {::options toc_levels="2" /}
