@@ -133,7 +133,7 @@ for example:
     spending time talking informally over lunch may help you work
     together more comfortably.
 -   Ensure informed consent and other research ethics. For example,
-    participants in studies should be told that they are free to stop at
+    tell participants in studies that they are free to stop at
     any time.
 -   Treat people with disabilities and older users with the respect you
     would any other users. For example, respect their time and provide
