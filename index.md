@@ -58,7 +58,7 @@ Involving users early in web projects results in better products for users, more
 
 When developers understand accessibility issues, they can implement **more effective** accessibility solutions. For example, their website will work better and be more usable for people with disabilities, older users, and [other target groups](http://www.w3.org/WAI/bcase/soc#groups). Making websites and web tools more usable for people with a range of disabilities improves general usability for everybody, including people *without* disabilities. (You could say that involving users with disabilities in your development project gives you **improved usability** for free.)
 
-This benefits not only users, but also stakeholders. For example, when websites get [increased use](http://www.w3.org/WAI/bcase/fin.html#increase-use) and other [business benefits](http://www.w3.org/WAI/bcase/) from increased accessibility.
+This benefits users, and also stakeholders. For example, when websites get [increased use](http://www.w3.org/WAI/bcase/fin.html#increase-use) and other [business benefits](http://www.w3.org/WAI/bcase/) from increased accessibility.
 
 ### More Efficient Development
 
