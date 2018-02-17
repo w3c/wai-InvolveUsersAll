@@ -19,6 +19,7 @@ redirect_from: /
 {% include_cached toc.html type="end" %}
 {:/}
 
+## Introduction {#intro}
 
 Involving users early in projects helps you understand real-world accessibility issues, such as how people with disabilities and older people use the web with [adaptive strategies](#strategies){:.termref} and [assistive technologies](#at){:.termref}.
 
