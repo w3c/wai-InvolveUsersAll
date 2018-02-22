@@ -102,11 +102,11 @@ Getting a Range of Users {#diverse}
 ------------------------------------
 
 People with disabilities are as diverse as any people. They have diverse experiences, expectations, and preferences. They use diverse interaction techniques, [adaptive strategies](#strategies){:.termref}, and [assistive technology](#at){:.termref} configurations. People have different disabilities: auditory, cognitive, neurological, physical, speech, and visual. Some people have multiple disabilities. Even within one category, there is extreme variation. For example, "visual disability" includes people who have been totally blind since birth, people who have distortion in their central vision from age-related degeneration, and people who temporarily have blurry vision from an injury or disease. 
-Include users with a variety of disabilities and [user characteristics](#userchars){.termref}. Most projects have limited time and budget and cannot include many different users. Selecting the optimum number of users with the best suited characteristics can be difficult. There are resources on the web that provide guidance on selecting participants with disabilities. For example, [determining participant characteristics](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics)  and [finding participants with disabilities](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting).
+Include users with a variety of disabilities and [user characteristics](#userchars){:.termref}. Most projects have limited time and budget and cannot include many different users. Selecting the optimum number of users with the best suited characteristics can be difficult. There are resources on the web that provide guidance on selecting participants with disabilities. For example, [determining participant characteristics](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics)  and [finding participants with disabilities](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting).
 
 ### Users' Experience Interacting with the Web {#experience}
 
-A primary consideration in selecting users is their experience interacting with the web. For example, some [assistive technologies](#at){.termref} (AT) are complicated and difficult to learn. A user with insufficient experience may not know how to use the AT effectively. And a very advanced user might know uncommon work-arounds to overcome problems in a website that the "average" user would not be able to handle.
+A primary consideration in selecting users is their experience interacting with the web. For example, some [assistive technologies](#at){:.termref} (AT) are complicated and difficult to learn. A user with insufficient experience may not know how to use the AT effectively. And a very advanced user might know uncommon work-arounds to overcome problems in a website that the "average" user would not be able to handle.
 
 In the early stages when you are first learning how people with disabilities interact with the web, it is usually best to get people with a fairly high experience level. ([Involving Users in Evaluating Web Accessibility](../eval/users) says more about different experience levels in later evaluation phases.)
 
@@ -178,7 +178,7 @@ Terminology {#terms}
     to improve interaction with the web. For example, increasing the font
     size in a common browser. Adaptive strategies include techniques
     with mainstream browsers or with [assistive
-    technologies](#at){.termref}.
+    technologies](#at){:.termref}.
 
 **assistive technologies**{:#at}
 :   Assistive technologies are software or equipment that people with
@@ -195,8 +195,8 @@ Terminology {#terms}
     home, shared office, private office, shared public terminal),
     computer experience, and web experience. User characteristics can
     also include type of disability, [adaptive
-    strategies](#strategies){.termref} used, and experience with
-    specific [assistive technologies](#at){.termref}.
+    strategies](#strategies){:.termref} used, and experience with
+    specific [assistive technologies](#at){:.termref}.
 
 **web content**{:#content}
 :   Web "content" generally refers to the information in a web page or
