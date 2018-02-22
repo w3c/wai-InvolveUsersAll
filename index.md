@@ -173,7 +173,7 @@ are available on the web, such as:
 Terminology {#terms}
 ---------------------
 
-**adaptive strategies**{#strategies}
+**adaptive strategies**{:#strategies}
 :   Adaptive strategies are techniques that people with disabilities use
     to improve interaction with the web. For example, increasing the font
     size in a common browser. Adaptive strategies include techniques
