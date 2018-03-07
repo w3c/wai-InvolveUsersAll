@@ -1,9 +1,10 @@
 ---
 title: Involving Users in Web Projects for Better, Easier Accessibility
 permalink: /plan/involving-users/
-date: 2016-05-08
 layout: default
-redirect_from: /
+footer: >
+  <p><strong>Content last updated</strong><strong>: 7 April 2010</strong> [<a href="../EO/changelogs/cl-impl-users.html">changelog</a>]<br>
+  Editors: <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>. Developed with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the  6th Framework</strong>.</p>
 ---
 
 {::options toc_levels="2" /}
