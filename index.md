@@ -3,8 +3,10 @@ title: Involving Users in Web Projects for Better, Easier Accessibility
 permalink: /plan/involving-users/
 layout: default
 footer: >
-  <p><strong>Content last updated</strong><strong>: 7 April 2010</strong> [<a href="../EO/changelogs/cl-impl-users.html">changelog</a>]<br>
-  Editors: <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>. Developed with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the  6th Framework</strong>.</p>
+  <p><strong>Date:</strong> Updated 7 March 2018. First published 9 December 2009. <!-- [<a href="https://www.w3.org/WAI/EO/changelogs/cl-impl-users.html">changelog</a>] --></p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+
 ---
 
 {::options toc_levels="2" /}
