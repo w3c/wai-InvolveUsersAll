@@ -86,9 +86,8 @@ As early as possible in your project:
 
 For example, for websites, web applications, and web tools:
 
-4.  When you are considering a specific design aspect, such as expanding/collapsing navigation, find other products that are already doing it. Ask users to explore with you what works well and what does not.
-5.  Throughout your design and development, ask users to review prototypes. Give them specific tasks to complete and see how the different aspects of the design and coding could be improved. Ask lots of questions.
-{:start="4"}
+* When you are considering a specific design aspect, such as expanding/collapsing navigation, find other products that are already doing it. Ask users to explore with you what works well and what does not.
+* Throughout your design and development, ask users to review prototypes. Give them specific tasks to complete and see how the different aspects of the design and coding could be improved. Ask lots of questions.
 
 For more in this, see [Involving Users in Evaluating Web Accessibility](http://www.w3.org/WAI/eval/users), especially the sections on [Analyzing Accessibility
 Issues](http://www.w3.org/WAI/eval/users#analyz) and [Drawing Conclusions and Reporting](http://www.w3.org/WAI/eval/users#drawing).
