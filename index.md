@@ -28,11 +28,11 @@ Involving users early helps you implement more effective accessibility solutions
 
 This applies when designing and developing:
 
--   Websites and web applications
--   Browsers, media players, and assistive technologies
--   Authoring tools such as content management systems (CMS), blog  software, and WYSIWYG editors
--   Accessibility standards and policies
--   Web technologies and technical specifications, such as HTML
+-   websites and web applications
+-   browsers, media players, and assistive technologies
+-   authoring tools such as content management systems (CMS), blog software, and WYSIWYG editors
+-   accessibility standards and policies
+-   web technologies and technical specifications, such as HTML
 
 This page gets you started reaping the benefits of **involving users — specifically people with disabilities and older people with accessibility needs due to aging — early and throughout different types of projects**. A separate page focuses on [including users in evaluation](http://www.w3.org/WAI/eval/users.html) for web development projects.
 
