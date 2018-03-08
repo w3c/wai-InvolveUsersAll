@@ -12,14 +12,14 @@ footer: >
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Page Contents" %}
 {:/}
 
 -   TOC is created automatically.
 {:toc}
 
 {::nomarkdown}
-{% include_cached toc.html type="end" %}
+{% include toc.html type="end" %}
 {:/}
 
 ## Introduction {#intro}
