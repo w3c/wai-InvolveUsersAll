@@ -205,5 +205,5 @@ Terminology {#terms}
     web application, including text, images, forms, sounds, and such.
     More specific definitions are available in the WCAG documents, which
     are linked from the [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag).
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }}).
 
