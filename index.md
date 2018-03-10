@@ -36,7 +36,7 @@ This applies when designing and developing:
 -   accessibility standards and policies
 -   web technologies and technical specifications, such as HTML
 
-This page gets you started reaping the benefits of **involving users — specifically people with disabilities and older people with accessibility needs due to aging — early and throughout different types of projects**. A separate page focuses on [including users in evaluation](http://www.w3.org/WAI/eval/users.html) for web development projects.
+This page gets you started reaping the benefits of **involving users — specifically people with disabilities and older people with accessibility needs due to aging — early and throughout different types of projects**. A separate page focuses on [including users in evaluation]({{ "/test-evaluate/involving-users/" | relative_url }}) for web development projects.
 
 How Involving Users Early Helps {#why}
 ---------------------------------------
@@ -91,8 +91,8 @@ For example, for websites, web applications, and web tools:
 * When you are considering a specific design aspect, such as expanding/collapsing navigation, find other products that are already doing it. Ask users to explore with you what works well and what does not.
 * Throughout your design and development, ask users to review prototypes. Give them specific tasks to complete and see how the different aspects of the design and coding could be improved. Ask lots of questions.
 
-For more in this, see [Involving Users in Evaluating Web Accessibility](http://www.w3.org/WAI/eval/users), especially the sections on [Analyzing Accessibility
-Issues](http://www.w3.org/WAI/eval/users#analyz) and [Drawing Conclusions and Reporting](http://www.w3.org/WAI/eval/users#drawing).
+For more in this, see [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}), especially the sections on [Analyzing Accessibility
+Issues]({{ "/test-evaluate/involving-users/" | relative_url }}#analyz) and [Drawing Conclusions and Reporting]({{ "/test-evaluate/involving-users/" | relative_url }}#drawing).
 
 ### Carefully Consider Input
 
@@ -162,7 +162,7 @@ Many resources on other aspects of involving users throughout projects
 are available on the web, such as:
 
 -   [Involving Users in Evaluating Web
-    Accessibility](http://www.w3.org/WAI/eval/users.html) provides more
+    Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}) provides more
     details on specifically on evaluation with users.
 -   [Recommendations - User Empowerment in Standardisation](http://www.usem-net.eu/index.php?Itemid=77&option=com_content)
     links to recommendations for end users, user organizations, and
