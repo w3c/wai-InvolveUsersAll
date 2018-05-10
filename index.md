@@ -165,9 +165,6 @@ are available on the web, such as:
 -   [Involving Users in Evaluating Web
     Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}) provides more
     details on specifically on evaluation with users.
--   [Recommendations - User Empowerment in Standardisation](http://www.usem-net.eu/index.php?Itemid=77&option=com_content)
-    links to recommendations for end users, user organizations, and
-    others in the standardization process.
 -   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html)
     provides detailed guidance on incorporating accessibility throughout
     projects. For example, see [Incorporating Accessibility Early and
