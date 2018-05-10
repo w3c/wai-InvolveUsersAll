@@ -1,6 +1,6 @@
 ---
 title: Involving Users in Web Projects for Better, Easier Accessibility
-permalink: /plan/involving-users/
+permalink: /planning/involving-users/
 github:
   repository: w3c/wai-InvolveUsersAll
 layout: default
