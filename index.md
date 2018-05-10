@@ -92,8 +92,7 @@ For example, for websites, web applications, and web tools:
 * When you are considering a specific design aspect, such as expanding/collapsing navigation, find other products that are already doing it. Ask users to explore with you what works well and what does not.
 * Throughout your design and development, ask users to review prototypes. Give them specific tasks to complete and see how the different aspects of the design and coding could be improved. Ask lots of questions.
 
-For more in this, see [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}), especially the sections on [Analyzing Accessibility
-Issues]({{ "/test-evaluate/involving-users/" | relative_url }}#analyz) and [Drawing Conclusions and Reporting]({{ "/test-evaluate/involving-users/" | relative_url }}#drawing).
+For more in this, see [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}), especially the sections on [Analyzing Accessibility Issues]({{ "/test-evaluate/involving-users/" | relative_url }}#analyz) and [Drawing Conclusions and Reporting]({{ "/test-evaluate/involving-users/" | relative_url }}#drawing).
 
 ### Carefully Consider Input
 
@@ -111,7 +110,7 @@ Include users with a variety of disabilities and [user characteristics](#usercha
 
 A primary consideration in selecting users is their experience interacting with the web. For example, some [assistive technologies](#at){:.termref} (AT) are complicated and difficult to learn. A user with insufficient experience may not know how to use the AT effectively. And a very advanced user might know uncommon work-arounds to overcome problems in a website that the "average" user would not be able to handle.
 
-In the early stages when you are first learning how people with disabilities interact with the web, it is usually best to get people with a fairly high experience level. ([Involving Users in Evaluating Web Accessibility](../eval/users) says more about different experience levels in later evaluation phases.)
+In the early stages when you are first learning how people with disabilities interact with the web, it is usually best to get people with a fairly high experience level. ([Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}) says more about different experience levels in later evaluation phases.)
 
 Working with Users {#with}
 ---------------------------
@@ -143,17 +142,17 @@ Including users with disabilities and older users with accessibility needs is ke
 
 -   For websites and web applications, using comprehensive standards
     such as [Web Content Accessibility Guidelines (WCAG)
-    2.0](/WAI/intro/wcag) helps ensure that you address all issues.
+    2.0]({{ "/standards-guidelines/wcag/" | relative_url }}) helps ensure that you address all issues.
     Combine user involvement with [evaluating conformance to
-    WCAG](/test-eval/conformance-eval/) to ensure that
+    WCAG]({{ "/test-evaluate/conformance/" | relative_url }}) to ensure that
     accessibility is provided to users with a range of disabilities and
     situations.
 -   For authoring tools such as content management systems (CMS), blog
     software, and WYSIWYG editors, follow [Authoring Tool Accessibility
-    Guidelines (ATAG)](/standards/atag/).
+    Guidelines (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }}).
 -   For browsers, media players, and other 'user agents', follow [User
     Agent Accessibility Guidelines
-    (UAAG)](/standards/uaag/).
+    (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }}).
 
 More Information and Guidance {#fmi}
 -------------------------------------
