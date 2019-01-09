@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-InvolveUsersAll
 layout: default
 footer: >
-  <p><strong>Date:</strong> Updated 25 May 2018. First published 9 December 2009. <!-- [<a href="https://www.w3.org/WAI/EO/changelogs/cl-impl-users.html">changelog</a>] --></p>
+  <p><strong>Date:</strong> Updated 9 January 2019. First published 9 December 2009. <!-- [<a href="https://www.w3.org/WAI/EO/changelogs/cl-impl-users.html">changelog</a>] --></p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ---
@@ -141,8 +141,7 @@ Combine User Involvement with Standards
 Including users with disabilities and older users with accessibility needs is key to making your accessibility efforts more effective and more efficient. Yet that alone cannot address all issues. Even large projects cannot cover the [diversity](#diverse) of disabilities, adaptive strategies, and assistive technologies. That is **the role of accessibility standards**.
 
 -   For websites and web applications, using comprehensive standards
-    such as [Web Content Accessibility Guidelines (WCAG)
-    2]({{ "/standards-guidelines/wcag/" | relative_url }}) helps ensure that you address all issues.
+    such as [Web Content Accessibility Guidelines (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}) helps ensure that you address all issues.
     Combine user involvement with [evaluating conformance to
     WCAG]({{ "/test-evaluate/conformance/" | relative_url }}) to ensure that
     accessibility is provided to users with a range of disabilities and
