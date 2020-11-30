@@ -5,7 +5,7 @@ permalink: /planning/involving-users/
 ref: /planning/involving-users/
 
 lang: en
-last_updated: 2020-11-30
+last_updated: 2020-11-30   # updated links and metadata; not content
 
 github:
   repository: w3c/wai-InvolveUsersAll
@@ -142,7 +142,9 @@ This applies when designing and developing:
 -   accessibility standards and policies
 -   web technologies and technical specifications, such as HTML
 
-This page gets you started reaping the benefits of **involving users — specifically people with disabilities and older people with accessibility needs due to aging — early and throughout different types of projects**. A separate page focuses on [including users in evaluation]({{ "/test-evaluate/involving-users/" | relative_url }}) for web development projects.
+This page gets you started reaping the benefits of **involving users — specifically people with disabilities and older people with accessibility needs due to aging — early and throughout different types of projects**.
+
+A separate page focuses on [[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/).
 
 How Involving Users Early Helps {#why}
 ---------------------------------------
@@ -151,13 +153,13 @@ Involving users early in web projects results in better products for users, more
 
 ### Better Accessibility and Better Usability for All Users
 
-When developers understand accessibility issues, they can implement **more effective** accessibility solutions. For example, their website will work better and be more usable for people with disabilities, older users, and [other target groups](http://www.w3.org/WAI/bcase/soc#groups). Making websites and web tools more usable for people with a range of disabilities improves general usability for everybody, including people *without* disabilities. (You could say that involving users with disabilities in your development project gives you **improved usability** for free.)
+When developers understand accessibility issues, they can implement **more effective** accessibility solutions. For example, their website will work better and be more usable for people with disabilities, older users, and [other target groups](https://www.w3.org/WAI/business-case/archive/soc#groups). Making websites and web tools more usable for people with a range of disabilities improves general usability for everybody, including people *without* disabilities. (You could say that involving users with disabilities in your development project gives you **improved usability** for free.)
 
-This benefits users, and also stakeholders. For example, when websites get [increased use](http://www.w3.org/WAI/bcase/fin.html#increase-use) and other [business benefits](http://www.w3.org/WAI/bcase/) from increased accessibility.
+This benefits users, and also stakeholders. For example, when websites get [increased use](https://www.w3.org/WAI/business-case/archive/fin#increase-use) and other [business benefits](https://www.w3.org/WAI/business-case/archive/) from increased accessibility.
 
 ### More Efficient Development
 
-Including users in the development process helps you **more efficiently develop** accessible products that work well for real users in real situations. This can help [maximize your return on investment (ROI)](http://www.w3.org/WAI/bcase/) in accessibility.
+Including users in the development process helps you **more efficiently develop** accessible products that work well for real users in real situations. This can help [maximize your return on investment (ROI)](https://www.w3.org/WAI/business-case/archive/) in accessibility.
 
 When you understand how people use the web and your particular product, you can:
 
@@ -186,7 +188,7 @@ Below are the basics that you can do yourself to include users in your projects.
 
 As early as possible in your project:
 
-1.  Learn the basics of [how people with disabilities use the web](http://www.w3.org/WAI/intro/people-use-web.php) by reading online resources and watching videos.
+1.  Learn the basics of [[How People with Disabilities Use the Web]]( /people-use-web/) by reading online resources and watching videos.
 2.  Find people with disabilities, with a range of characteristics. See [Getting a Range of Users](#diverse) and [Working with Users](#with) below.
 3.  Learn about general issues related to the type of product you are developing (website, web application, authoring tool, standard, etc.). Ask people to show you related products that work well for them. Then, ask them to show you problems in products that do not work well. Ask lots of questions to help you understand the accessibility issues.
 
@@ -197,7 +199,7 @@ For example, for websites, web applications, and web tools:
 * When you are considering a specific design aspect, such as expanding/collapsing navigation, find other products that are already doing it. Ask users to explore with you what works well and what does not.
 * Throughout your design and development, ask users to review prototypes. Give them specific tasks to complete and see how the different aspects of the design and coding could be improved. Ask lots of questions.
 
-For more in this, see [Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}), especially the sections on [Analyzing Accessibility Issues]({{ "/test-evaluate/involving-users/" | relative_url }}#analyz) and [Drawing Conclusions and Reporting]({{ "/test-evaluate/involving-users/" | relative_url }}#drawing).
+For more in this, see [[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/), especially the sections on [Analyzing Accessibility Issues](/test-evaluate/involving-users/#analyz) and [Drawing Conclusions and Reporting](/test-evaluate/involving-users/#drawing).
 
 ### Carefully Consider Input
 
@@ -215,7 +217,7 @@ Include users with a variety of disabilities and [user characteristics](#usercha
 
 A primary consideration in selecting users is their experience interacting with the web. For example, some [assistive technologies](#at){:.termref} (AT) are complicated and difficult to learn. A user with insufficient experience may not know how to use the AT effectively. And a very advanced user might know uncommon work-arounds to overcome problems in a website that the "average" user would not be able to handle.
 
-In the early stages when you are first learning how people with disabilities interact with the web, it is usually best to get people with a fairly high experience level. ([Involving Users in Evaluating Web Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}) says more about different experience levels in later evaluation phases.)
+In the early stages when you are first learning how people with disabilities interact with the web, it is usually best to get people with a fairly high experience level. ([[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/) says more about different experience levels in later evaluation phases.)
 
 Working with Users {#with}
 ---------------------------
@@ -246,17 +248,17 @@ Combine User Involvement with Standards
 Including users with disabilities and older users with accessibility needs is key to making your accessibility efforts more effective and more efficient. Yet that alone cannot address all issues. Even large projects cannot cover the [diversity](#diverse) of disabilities, adaptive strategies, and assistive technologies. That is **the role of accessibility standards**.
 
 -   For websites and web applications, using comprehensive standards
-    such as [Web Content Accessibility Guidelines (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}) helps ensure that you address all issues.
+    such as [Web Content Accessibility Guidelines (WCAG)](/standards-guidelines/wcag/) helps ensure that you address all issues.
     Combine user involvement with [evaluating conformance to
-    WCAG]({{ "/test-evaluate/conformance/" | relative_url }}) to ensure that
+    WCAG](/test-evaluate/conformance/) to ensure that
     accessibility is provided to users with a range of disabilities and
     situations.
 -   For authoring tools such as content management systems (CMS), blog
     software, and WYSIWYG editors, follow [Authoring Tool Accessibility
-    Guidelines (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }}).
+    Guidelines (ATAG)](/standards-guidelines/atag/).
 -   For browsers, media players, and other 'user agents', follow [User
     Agent Accessibility Guidelines
-    (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }}).
+    (UAAG)](/standards-guidelines/uaag/).
 
 More Information and Guidance {#fmi}
 -------------------------------------
@@ -265,8 +267,7 @@ This document briefly addresses a few points of a very complex topic.
 Many resources on other aspects of involving users throughout projects
 are available on the web, such as:
 
--   [Involving Users in Evaluating Web
-    Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}) provides more
+-   **[[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/)** provides more
     details on specifically on evaluation with users.
 -   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html)
     provides detailed guidance on incorporating accessibility throughout
@@ -306,4 +307,4 @@ Terminology {#terms}
     web application, including text, images, forms, sounds, and such.
     More specific definitions are available in the WCAG documents, which
     are linked from the [Web Content Accessibility Guidelines (WCAG)
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }}).
+    Overview](/standards-guidelines/wcag/).
