@@ -1,14 +1,23 @@
 ---
 title: Involving Users in Web Projects for Better, Easier Accessibility
+
 permalink: /planning/involving-users/
+ref: /planning/involving-users/
+
+lang: en
+last_updated: 2020-11-30
+
 github:
   repository: w3c/wai-InvolveUsersAll
+  path: content/index.md
 layout: default
+
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
   <p><strong>Date:</strong> Main content updated 9 January 2019. Intro video added 28 April 2020. First published 9 December 2009.<!-- [<a href="https://www.w3.org/WAI/EO/changelogs/cl-impl-users.html">changelog</a>] --></p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
+
 ---
 
 {::options toc_levels="2" /}
