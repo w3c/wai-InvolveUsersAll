@@ -188,7 +188,7 @@ Below are the basics that you can do yourself to include users in your projects.
 
 As early as possible in your project:
 
-1.  Learn the basics of [[How People with Disabilities Use the Web]]( /people-use-web/) by reading online resources and watching videos.
+1.  Learn the basics of [How People with Disabilities Use the Web]( /people-use-web/) by reading online resources and watching videos.
 2.  Find people with disabilities, with a range of characteristics. See [Getting a Range of Users](#diverse) and [Working with Users](#with) below.
 3.  Learn about general issues related to the type of product you are developing (website, web application, authoring tool, standard, etc.). Ask people to show you related products that work well for them. Then, ask them to show you problems in products that do not work well. Ask lots of questions to help you understand the accessibility issues.
 
