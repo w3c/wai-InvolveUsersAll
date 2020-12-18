@@ -1,12 +1,15 @@
-[Settings]
-
-ID = "wai-InvolveUsersAll"
-
 [build]
-
 command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
 publish = "_site"
+
+[build.environment]
+RUBY_VERSION = "2.6.2" 
 
 [[redirects]]
   from = "/"
   to = "/planning/involving-users/"
+
+[dev]
+publish = "_site"
+framework = "#static"
+

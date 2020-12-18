@@ -1,4 +1,1 @@
-# Involving Users in Web Projects for Better, Easier Accessibility
-Formerly at https://www.w3.org/WAI/users/involving
-
-preview: https://w3c.github.io/wai-InvolveUsersAll//planning/involving-users/ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3d67090-5f33-4748-9061-f908d3055384/deploy-status)](https://app.netlify.com/sites/wai-involveusersall/deploys)
