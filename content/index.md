@@ -1,24 +1,54 @@
 ---
-title: Involving Users in Web Projects for Better, Easier Accessibility
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-permalink: /planning/involving-users/
-ref: /planning/involving-users/
+title: "Involving Users in Web Projects for Better, Easier Accessibility"
+nav_title: "Involving Users for Better Accessibility"
 
-lang: en
-last_updated: 2020-11-30   # updated links and metadata; not content
+lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-01-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+# translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-InvolveUsersAll
-  path: content/index.md
-layout: default
+  path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+permalink: /planning/involving-users/   # Add the language shortcode to the end, with no slash at end, for example: /planning/involving-users/fr
 
+ref: /planning/involving-users/   # Translators, do not change this
+changelog: /planning/involving-users/changelog/
+
+description: This page gets you started reaping the benefits of involving people with disabilities early and throughout different types of projects.   # translate the description
+feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-  <p><strong>Date:</strong> Main content updated 9 January 2019. Intro video added 28 April 2020. First published 9 December 2009.<!-- [<a href="https://www.w3.org/WAI/EO/changelogs/cl-impl-users.html">changelog</a>] --></p>
+  <p><strong>Date:</strong> Main content updated 9 January 2019. Intro video added 28 April 2020. First published 9 December 2009. CHANGELOG.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
 
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This page gets you started reaping the benefits of involving people with disabilities early and throughout different types of projects.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
