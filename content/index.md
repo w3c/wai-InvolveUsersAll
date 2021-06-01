@@ -2,8 +2,7 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Involving Users in Web Projects for Better, Easier Accessibility"
-nav_title: "Involving Users for Better Accessibility"
+title: Involving Users in Web Projects for Better, Easier Accessibility
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-01-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -23,7 +22,9 @@ permalink: /planning/involving-users/   # Add the language shortcode to the end,
 ref: /planning/involving-users/   # Translators, do not change this
 changelog: /planning/involving-users/changelog/
 
+description: This page gets you started reaping the benefits of involving people with disabilities early and throughout different types of projects.   # translate the description
 feedbackmail: wai@w3.org
+layout: default
 
 # In the footer below:
 # Do not translate or change CHANGELOG.
