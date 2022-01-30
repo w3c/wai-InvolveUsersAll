@@ -2,28 +2,24 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Involving Users in Web Projects for Better, Easier Accessibility"
-nav_title: "Involving Users for Better Accessibility"
+title: "Impliquer les utilisateurs dans les projets web pour améliorer et faciliter l'accessibilité"
+nav_title: "Impliquer les utilisateurs pour améliorer l'accessibilité"
 
-lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-01-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+lang: fr   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2022-01-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-# translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+ translators:   
+ - name: "Céline Bouillon"  
 
 github:
   repository: w3c/wai-InvolveUsersAll
-  path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /planning/involving-users/   # Add the language shortcode to the end, with no slash at end, for example: /planning/involving-users/fr
+  path: content/index.fr.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+permalink: /planning/involving-users/fr   # Add the language shortcode to the end, with no slash at end, for example: /planning/involving-users/fr
 
 ref: /planning/involving-users/   # Translators, do not change this
 changelog: /planning/involving-users/changelog/
 
-description: This page gets you started reaping the benefits of involving people with disabilities early and throughout different types of projects.   # translate the description
+description: Cette page vous aide à démarrer afin que vous tiriez les bénéfices d'une implication des personnes en situation de handicap, rapidement et tout au long de différents types de projets.  # translate the description
 feedbackmail: wai@w3.org
 layout: default
 
@@ -33,18 +29,18 @@ layout: default
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-  <p><strong>Date:</strong> Main content updated 9 January 2019. Intro video added 28 April 2020. First published 9 December 2009. CHANGELOG.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a>. Developed as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
+  <p>Note à propos de l'audiodescription : la vidéo présente sur cette page n'inclut pas l'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus distrayante qu'utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels ("transcription descriptive").</p>
+  <p><strong>Date:</strong> Mise à jour : 9 janvier 2019. Ajout de la vidéo d'introduction : 28 avril 2020. Première publication : 9 décembre 2009. CHANGELOG.</p>
+  <p><strong>Rédacteurs :</strong> <a hreflang="en" href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, et <a hreflang="en" href="http://www.w3.org/People/Andrew/">Andrew Arch</a>.</p>
+  <p>Développé grâce aux éléments de l'<i lang="en">Education and Outreach Working Group</i> (<a hreflang="en" href="http://www.w3.org/WAI/EO/">EOWG</a>), avec le <a hreflang="en" href="https://www.w3.org/WAI/EO/2008/wai-age-tf">Groupe de Travail WAI-AGE</a>. Développé dans le cadre du <a hreflang="en" href="https://www.w3.org/WAI/WAI-AGE/">Projet WAI-AGE</a> financé par la Commission européenne au titre du 6e programme-cadre. Vidéo créée avec le soutien du projet <a hreflang="en" href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financée par la Commission Européenne dans le cadre du programme Horizon 2020 (Accord de Subvention n°822245). <a hreflang="en" href="/WAI/test-evaluate/acknowledgements">Remerciements pour la vidéo</a>.</p>
 
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" title="Résumé" class="" %}
 {:/}
 
-This page gets you started reaping the benefits of involving people with disabilities early and throughout different types of projects.
+Cette page vous aide à démarrer afin que vous tiriez les bénéfices d'une implication des personnes en situation de handicap, rapidement et tout au long de différents types de projets.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -54,7 +50,7 @@ This page gets you started reaping the benefits of involving people with disabil
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Table des matières" %}
 {:/}
 
 -   TOC is created automatically.
@@ -66,20 +62,22 @@ This page gets you started reaping the benefits of involving people with disabil
 
 {% include excol.html type="start" id="video-intro" %}
 
-## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users in Web Accessibility Overview {#video}
+## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vidéo: Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="lIA2zTXq_ts"
-    captions="/content-images/wai-InvolveUsersAll/involving-users-cc.vtt"
+yt-id="lIA2zTXq_ts"
+path="/content-images/wai-InvolveUsersEval/"
+captions="involving-users-cc.vtt|en"
+subtitles="involving-users-fr.vtt|fr|default"
 %}
 
-_This video is also available on a W3C server: [Video: Involving Users in Web Accessibility Overview (file format: MP4, file size: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
+_Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo: Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble (format du fichier : MP4, taille du fichier : 38Mo)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-Text Transcript with Description of Visuals
+Transcription textuelle avec description des visuels
 
 {% include excol.html type="middle" %}
 
@@ -87,70 +85,71 @@ Text Transcript with Description of Visuals
   <thead>
     <tr>
       <th width="65%">Audio</th>
-      <th>Visual</th>
+      <th>Visuel</th>
     </tr>
   </thead>
 <tbody>
   <tr>
-    <td>Involving users in web accessibility. </td>
-    <td>Involving users in web accessibility.</td>
+    <td>Impliquer les utilisateurs dans l'accessibilité Web.</td>
+    <td>Impliquer les utilisateurs dans l'accessibilité Web.</td>
   </tr>
   <tr>
-    <td>Accessibility is about making your websites and applications usable by people with disabilities. That includes your customers, clients, employees, students, and others. </td>
-    <td>Accessibility. A person in front of a computer. Next to the computer the words: customers; clients; employees; and students.</td>
+    <td>L'accessibilité Web consiste à rendre vos sites et vos applications Web utilisables par des personnes en situation de handicap. Ces personnes peuvent aussi bien être vos consommateurs, vos clients, vos employés, vos étudiants etc.</td>
+    <td>L'accessibilité. Une personne se trouve face à un ordinateur. À côté de l'ordinateur apparaissent les mots : consommateurs ; clients ; employés ; et étudiants.</td>
   </tr>
   <tr>
-    <td>Unfortunately many approach accessibility just as a checklist. This risks missing the real purpose of accessibility - the user experience. </td>
-    <td>A checklist replaces the person. The website on the screen crumbles. 4 people replace the computer and checklist.</td>
+    <td>Malheureusement, bon nombre de personnes considèrent l'accessibilité uniquement comme une liste de choses à vérifier. En faisant cela, elles risquent de passer à côté de la raison d'être de l'accessibilité : l'expérience utilisateur.</td>
+    <td>Une liste remplace la personne. Le site Web sur l'écran s'écroule. 4 personnes remplacent l'ordinateur et la liste.</td>
   </tr>
   <tr>
-    <td>Involving people with disabilities throughout your design and development process can be more effective and yield better results:
+    <td>Impliquer des personnes en situation de handicap tout au long des processus de conception et de développement peut s'avérer plus efficace et produire de meilleurs résultats :
       <ul>
-        <li> designers and developers learn how people with disabilities use the web, and understand assistive technologies and adaptive strategies they use;</li>
+        <li> les designers et les développeurs apprennent comment les personnes en situation de handicap utilisent le Web, et comprennent les technologies d'assistance et les stratégies d'adaptation qu'elles utilisent ;</li>
       </ul></td>
-    <td>The group of people are surrounded by icons inserted in a development process cycle:  pen icon; coding icon; paintbrush icon; and a magnifying glass icon. 
-Smaller versions of these people are integrated in the process cycle.</td>
+    <td>Le groupe de personnes est entouré par des icônes au sein d'un cycle représentant le processus de développement : une icône crayon ; une icône de codage ; une icône pinceau ; et une icône loupe. Ces personnes sont intégrées en plus petit dans le processus.
+    </td>
   </tr>
   <tr>
-    <td>(continued list)
+    <td>(suite de la liste)
       <ul>
-        <li> the project team is more motivated when they understand how their work impacts people's lives;</li>
+        <li> l'équipe chargée du projet est plus motivée lorsqu'elle comprend les conséquences positives de leur travail dans la vie des utilisateurs ;</li>
       </ul></td>
-    <td>The process icons remain as the people are replaced with a motivation gauge.</td>
+    <td>Les icônes représentant le processus sont toujours présentes et les personnes sont remplacées par une jauge de motivation.</td>
   </tr>
   <tr>
-    <td>(continued list)
+    <td>(suite de la liste)
       <ul>
-        <li> development is more efficient, and your products work better for more people, with and without disability;</li>
+        <li> le développement est plus efficient, et vos produits fonctionnent mieux pour plus de personnes, avec ou sans handicap ;</li>
       </ul></td>
-    <td>The process icons remain as the gauge is replaced with a graph showing an upward trend in results. The chart is replaced with multiple people figures.</td>
+    <td>Les icônes représentant le processus sont toujours présentes et la jauge est remplacée par un graphique montrant des résultats en hausse. Le graphique est remplacé par des silhouettes de plusieurs personnes.</td>
   </tr>
   <tr>
-    <td>(continued list)
+    <td>(suite de la liste)
       <ul>
-        <li> your resulting products are more inclusive and reach a bigger audience, have higher customer satisfaction, and demonstrate social responsibility.</li>
+        <li> et vos produits finaux sont plus inclusifs, touchent un public plus large, augmentent la satisfaction client, et démontrent votre responsabilité sociale.</li>
       </ul></td>
-    <td>The people increase in numbers as the process icons are removed. A 5 star rating appears above the people to get all 5 stars filled. The people transition into a globe with a heart in the middle.</td>
+    <td>Le nombre des personnes croît et les icônes représentant le processus disparaissent. Un classement à cinq étoiles apparaît au-dessus des personnes et les cinq étoiles se remplissent. Les personnes laissent place à une Terre contenant un cœur en son centre
+    </td>
   </tr>
   <tr>
-    <td>"Involving Users in Web Projects for Better, Easier Accessibility" provides guidance on project planning, and throughout the design and development process. </td>
-    <td>Involving Users in Web Projects for Better, Easier Accessibility. The development process cycle with icons appears.</td>
+    <td>"Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité" fournit des conseils pour organiser un projet, et un accompagnement tout au long du processus de conception et de développement. </td>
+    <td>Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité. Le cycle représentant le processus de développement, qui inclut les icônes, apparaît.</td>
   </tr>
   <tr>
-    <td>"Involving Users in Evaluating Web Accessibility" provides more specific guidance on the evaluation stage of the process. </td>
-    <td>Involving Users in Evaluating Web Accessibility. The icons in the process cycle are focused in turn with a magnifying glass.</td>
+    <td>"Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web" fournit une aide plus spécifique sur l'étape d'évaluation du processus.</td>
+    <td>Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web. Les icônes du cycle représentant le processus sont mises en avant tour à tour à l'aide d'une loupe.</td>
   </tr>
   <tr>
-    <td>Together these resources help you focus on accessibility for your website users rather than focusing on technical requirements only. </td>
-    <td>Involving Users in Evaluating Web Accessibility and Involving Users in Web Projects for Better, Easier Accessibility. merge into a person in front of the computer. On the screen, passes and fails are marked.</td>
+    <td>Ensemble, ces ressources vous aident à vous concentrer sur l'accessibilité pour les utilisateurs de votre site Web plutôt sur les seuls pré-requis techniques.</td>
+    <td>"Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web" et "Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité" fusionnent et se transforment en une personne face à l'ordinateur. Sur l'écran, les éléments accessibles et non-accessibles sont signalés.</td>
   </tr>
   <tr>
-    <td>Web accessibility: essential for some, useful for all </td>
-    <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+    <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
+    <td>Des icônes apparaissent autour d'un ordinateur : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
   </tr>
   <tr>
-    <td>For information on involving users in web accessibility, visit w3.o-r-g/W-A-I/involve-users. </td>
-    <td>Involving Users in Web Accessibility, W3C and Web Accessibility Initiative (WAI) logos.</td>
+    <td>Pour plus d'informations sur l'implication des utilisateurs, consultez w3.o-r-g/W-A-I/involve-users.</td>
+    <td>Impliquer les utilisateurs dans l'accessibilité Web. Logos du W3C et de l'Initiative pour l'accessibilité du Web (WAI).</td>
   </tr>
 </tbody>
 </table>
@@ -161,181 +160,137 @@ Smaller versions of these people are integrated in the process cycle.</td>
 
 ## Introduction {#intro}
 
-Involving users early in projects helps you understand real-world accessibility issues, such as how people with disabilities and older people use the web with [adaptive strategies](#strategies){:.termref} and [assistive technologies](#at){:.termref}.
+Impliquer les utilisateurs rapidement dans les projets permet de comprendre les problèmes d'accessibilité qu'ils rencontrent dans la vie réelle. Par exemple, cela permet d'appréhender la manière dont les personnes en situation de handicap ou âgées utilisent le web grâce à des [stratégies d'adaptation](#strategies){:.termref} et des [technologies d'assistance](#at){:.termref}. 
 
-Involving users early helps you implement more effective accessibility solutions. It also broadens your perspective and can lead you to discover new ways of thinking about your product that makes it work better for more people in more situations.
+Impliquer les utilisateurs en amont des projets permet d'implémenter des solutions plus efficaces pour assurer l'accessibilité. Cela élargit aussi votre perspective, et peut vous amener à repenser votre produit afin qu'il soit utile à un public plus large et dans des contextes plus variés.
 
-This applies when designing and developing:
+Ceci est valable lors de la conception et du développement :
 
--   websites and web applications
--   browsers, media players, and assistive technologies
--   authoring tools such as content management systems (CMS), blog software, and WYSIWYG editors
--   accessibility standards and policies
--   web technologies and technical specifications, such as HTML
+-   de sites et applications web
+-   de navigateurs, lecteurs multimedia, et technologies d'assistance
+-   d'outils d'édition comme les systèmes de gestion de contenus (SGC, aussi appelés CMS), plateformes de création de blogs et éditeurs WYSIWYG 
+-   de standards et règles d'accessibilité
+-   de technologies et spécifications techniques du web, comme le HTML
 
-This page gets you started reaping the benefits of **involving users — specifically people with disabilities and older people with accessibility needs due to aging — early and throughout different types of projects**.
+Cette page vous aide à démarrer afin que tiriez les bénéfices d'une **implication des utilisateurs — plus particulièrement des personnes en situation de handicap, et des personnes âgées ayant des besoins en accessibilité dûs au vieillissement — rapidement et tout au long de différents types de projets**.
 
-A separate page focuses on [[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/).
+Une page dédiée se concentre sur la manière d'[[impliquer les utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/fr).
 
-How Involving Users Early Helps {#why}
+En quoi rapidement impliquer les utilisateurs peut aider {#why}
 ---------------------------------------
 
-Involving users early in web projects results in better products for users, more efficient development, and other benefits to project stakeholders.
+Impliquer les utilisateurs en amont des projets web permet de créer de meilleurs produits pour eux et de rendre les développements plus efficaces. Cela bénéficie aussi aux parties prenantes projets. 
 
-### Better Accessibility and Better Usability for All Users
+### Une meilleure accessibilité et utilisabilité pour tous les utilisateurs
 
-When developers understand accessibility issues, they can implement **more effective** accessibility solutions. For example, their website will work better and be more usable for people with disabilities, older users, and [other target groups](https://www.w3.org/WAI/business-case/archive/soc#groups). Making websites and web tools more usable for people with a range of disabilities improves general usability for everybody, including people *without* disabilities. (You could say that involving users with disabilities in your development project gives you **improved usability** for free.)
+Quand les personnes en charge de l'implémentation comprennent les problématiques liées à l'accessibilité, elles développent des solutions **plus efficaces** pour assurer l'accessibilité. Par exemple, leurs sites web fonctionneront mieux et seront plus utilisables par les personnes en situation de handicap, âgées et faisant partie d'[autres groupes cibles](https://www.w3.org/WAI/business-case/archive/soc#groups). Constuire des sites et outils web plus utilisables pour des personnes présentant différents types de handicap améliore l'utilisabilité de manière générale, pour tout le monde. C'est aussi vrai pour les personnes qui n'ont *pas* de handicap. (On pourrait dire qu'impliquer des personnes en situation de handicap dans vos projets vous permet d'obtenir gratuitement une **meilleure utilisabilité**.)
 
-This benefits users, and also stakeholders. For example, when websites get [increased use](https://www.w3.org/WAI/business-case/archive/fin#increase-use) and other [business benefits](https://www.w3.org/WAI/business-case/archive/) from increased accessibility.
+Cela bénéficie aux utilisateurs, mais aussi aux parties prenantes projets. Par exemple, quand les sites web voient leur [utilisation augmentée](https://www.w3.org/WAI/business-case/archive/fin#increase-use) et d'autres [bénéfices business](https://www.w3.org/WAI/business-case/archive/) grâce à une accessibilité accrue.
 
-### More Efficient Development
+### Des développements plus efficaces
 
-Including users in the development process helps you **more efficiently develop** accessible products that work well for real users in real situations. This can help [maximize your return on investment (ROI)](https://www.w3.org/WAI/business-case/archive/) in accessibility.
+Inclure les utilisateurs dans votre process de développement permet de **développer plus efficacement** des produits accessibles, qui fonctionnent bien pour de véritables utilisateurs dans des situations de la vie réelle. Cela peut vous aider à [maximiser votre retour sur investissement (RSI, aussi appelé ROI)](https://www.w3.org/WAI/business-case/archive/) en termes d'accessibilité.
 
-When you understand how people use the web and your particular product, you can:
+Quand vous comprenez comment les personnes utilisent le web et plus particulièrement votre produit, vous pouvez :
+- planifier l'accessibilité dans les phases projets les plus appropriées, dès le départ
+- développer plus rapidement des solutions pour assurer l'accessibilité
+- prendre des décisions éclairées entre différentes possibilités, et éviter de perdre du temps en supposition
+- limiter le temps passé à revenir sur le code et corriger les bugs
+- éviter d'avoir à faire des compromis plus tard parce que vous avez trop attendu pour tenir compte de l'accessibilité
+- avoir une meilleure idée des standards, lignes directrices et autres exigences d'accessibilité (que vous pourriez avoir à respecter maintenant ou plus tard, par exemple si vous menez des projets pour le gouvernement)
 
--   plan accessibility into appropriate project phases from the beginning
--   more quickly develop accessibility solutions
--   make informed decisions between different options, and avoid wasting time guessing
--   limit having to go back and fix problems
--   avoid having to make compromises later because you waited too long to address accessibility
--   have a better perspective on accessibility standards, guidelines, and other requirements (which you might need to meet now or later, for example, if you sell to the government)
+Tout ceci bénéficie aux développeurs, chefs de projet, et autres parties prenantes.
 
-All these benefit developers, project managers, and other stakeholders.
+### De la motivation
 
-### Motivation
+Quand les designers et développeurs voient des personnes en situation de handicap utiliser leurs produits, la plupart d'entre eux sont très motivés par la découverte d'une nouvelle facette de l'accessibilité. Ils comprennent que l'interaction humaine fait partie intégrante de l'accessibilité. Et ils iront au-delà d'une approche qui réduit ce sujet à une liste d'éléments à cocher. Designers et développeurs peuvent percevoir l'opportunité d'avoir un impact fort, grâce à leur travail, sur la vie des gens.
+Quand les managers et les parties prenantes prennent part à des expériences où les personnes en situation de handicap utilisent leurs produits, cela aide bien souvent à débloquer du budget et des ressources pour planifier et traiter l'accessibilité correctement. 
 
-When designers and developers see people with disabilities use products like theirs, most are highly motivated by a new understanding of accessibility. They understand the human interaction aspects of accessibility and go beyond approaching accessibility as only a checklist item. Designers and developers can see the opportunity for their work to impact lives.
-When managers and stakeholders share such experiences of people with disabilities using their products, it often helps get resources budgeted and scheduled to address accessibility well.
-
-How to Involve Users throughout Your Project {#range}
+Comment impliquer les utilisateurs tout au long de votre projet {#range}
 ------------------------------------------------------
 
-This section focuses on including real people in the process. Address accessibility from the earliest stage of the project. For example, consider accessibility during planning, budgeting, scheduling and such. Include accessibility in your [user-centered design processes (UCD)](http://www.w3.org/WAI/redesign/ucd) or other design methodologies and techniques. For example, ensure that people with disabilities and older users are included in use cases, user analysis, personas, scenarios, workflows, design walkthroughs, etc.
+Cette section se concentre sur la manière d'impliquer de vrais utilisateurs dans votre process. Traitez le sujet de l'accessibilité dès les premières phases de votre projet. Par exemple, tenez compte de l'accessibilité pendant les phases de préparation, budgétisation, planification...Intégrez l'accessibilité dans vos [processes de conception centrée utilisateur (UCD)](http://www.w3.org/WAI/redesign/ucd) ou toute autre méthodologie et technique de conception. Par exemple, assurez-vous d'inclure des personnes en situation de handicap et des personnes âgées dans vos cas utilisateurs, analyses utilisateurs, personas, scénarios, workflows, design walkthroughs...
 
-Below are the basics that you can do yourself to include users in your projects. If you have the resources, consider getting assistance from accessibility, disability, and user-centered design specialists.
+Vous trouverez ci-dessous les fondamentaux pour intégrer les utilisateurs dans vos projets. Si vous en avez les moyens, envisagez de vous faire accompagner par des spécialistes de l'accessibilité, du handicap et de la conception centrée utilisateur. 
 
-### Including Users to Understand the Issues
+### Inclure les utilisateurs pour comprendre leurs problématiques
 
-As early as possible in your project:
+Dès que possible dans votre projet :
 
-1.  Learn the basics of [[How People with Disabilities Use the Web]](/people-use-web/) by reading online resources and watching videos.
-2.  Find people with disabilities, with a range of characteristics. See [Getting a Range of Users](#diverse) and [Working with Users](#with) below.
-3.  Learn about general issues related to the type of product you are developing (website, web application, authoring tool, standard, etc.). Ask people to show you related products that work well for them. Then, ask them to show you problems in products that do not work well. Ask lots of questions to help you understand the accessibility issues.
+1.  Apprenez [[comment les personnes handicapées utilisent le web]](/people-use-web/) en consultant les ressources et vidéos en ligne
+2.  Recrutez des personnes en situation de handicap, présentant différentes caractéristiques. cf. ci-dessous : [avoir un panel d'utilisateurs](#diverse) et [travailler avec les utilisateurs](#with).
+3.  Apprenez-en plus sur les problématiques généralement liées au type de produit que vous développez (site web, application web, outil d'édition, standard...). Demandez aux personnes de vous montrer des produits similaires au vôtre, et qui fonctionnent bien pour elles. Ensuite, demandez-leur de vous montrer les problèmes qu'elles rencontrent avec des produits qui fonctionnent mal. Posez beaucoup de questions afin de mieux comprendre les problèmes d'accessibilité.
 
-### Including Users in Implementation
+### Inclure les utilisateurs dans la phase d'implémentation
 
-For example, for websites, web applications, and web tools:
+Par exemple, pour des sites, applications et outils web :
 
-* When you are considering a specific design aspect, such as expanding/collapsing navigation, find other products that are already doing it. Ask users to explore with you what works well and what does not.
-* Throughout your design and development, ask users to review prototypes. Give them specific tasks to complete and see how the different aspects of the design and coding could be improved. Ask lots of questions.
+* Quand vous envisagez un design en particulier, comme une navigation qui se plie / déplie, trouvez d'autres produits qui le font déjà. Demandez aux utilisateurs d'étudier avec vous ce qui fonctionne bien ou mal. 
+* Tout au long des phases de design et de développement, demandez aux utilisateurs de tester vos prototypes. Donnez-leur des tâches spécifiques à effectuer, et voyez comment les différents aspects de la conception ou du code pourraient être améliorés. Posez beaucoup de questions.
 
-For more in this, see [[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/), especially the sections on [Analyzing Accessibility Issues](/test-evaluate/involving-users/#analyz) and [Drawing Conclusions and Reporting](/test-evaluate/involving-users/#drawing).
+Pour plus d'informations, voir : [[impliquer les utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/), et plus particulièrement les sections [analyser les problèmes d’accessibilité](/test-evaluate/involving-users/#analyz) et [tirer des conclusions et créer un rapport](/test-evaluate/involving-users/#drawing).
 
-### Carefully Consider Input
+### Considérez avec précaution toute contribution
 
-<mark><strong>Caution:</strong> Carefully consider all input. <strong>Avoid assuming that input from one person with a disability applies to all people with disabilities. </strong></mark>
+<mark><strong>Attention :</strong> Considérez avec précaution chaque contribution. <strong>Évitez de supposer que la contribution d'une personne présentant une certaine forme de handicap s'applique à toutes les personnes en situation de handicap. </strong></mark>
 
-A person with a disability does not necessarily know how other people with the same disability interact with the web. They might not know enough about other disabilities to provide valid guidance on other accessibility issues. Getting input from a range of users is best.
+Une personne en situation de handicap ne sait pas forcément comment d’autres personnes présentant le même type de handicap interagissent avec le Web. Elle pourrait ne pas en savoir assez sur les autres handicaps pour fournir une aide valable pour d’autres questions d’accessibilité. Il est préférable d’obtenir des contributions d'un panel d’utilisateurs.
 
-Getting a Range of Users {#diverse}
+Avoir un panel d'utilisateurs {#diverse}
 ------------------------------------
 
-People with disabilities are as diverse as any people. They have diverse experiences, expectations, and preferences. They use diverse interaction techniques, [adaptive strategies](#strategies){:.termref}, and [assistive technology](#at){:.termref} configurations. People have different disabilities: auditory, cognitive, neurological, physical, speech, and visual. Some people have multiple disabilities. Even within one category, there is extreme variation. For example, "visual disability" includes people who have been totally blind since birth, people who have distortion in their central vision from age-related degeneration, and people who temporarily have blurry vision from an injury or disease. 
-Include users with a variety of disabilities and [user characteristics](#userchars){:.termref}. Most projects have limited time and budget and cannot include many different users. Selecting the optimum number of users with the best suited characteristics can be difficult. There are resources on the web that provide guidance on selecting participants with disabilities. For example, [determining participant characteristics](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics)  and [finding participants with disabilities](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting).
+Les personnes en situation de handicap sont aussi diverses que n'importe quelles personnes. Elles ont des expériences, attentes et préférences différentes. Elles utilisent des techniques d'interaction, des [stratégies d'adaptation](#strategies){:.termref}, et des configurations de [technologies d'assistance](#at){:.termref} différentes. Les personnes ont des handicaps divers : auditif, cognitif, neurologique, physique, verbal, et visuel. Certaines personnes cumulent les handicaps. Même au sein d'une seule catégorie, il peut y avoir un écart extrême. Par exemple, "handicap visuel" inclut des personnes qui sont aveugles de naissance, qui ont une distortion de leur vision centrale à cause d'une dégénéresence liée à l'âge, et qui ont une vision floue de manière temporaire, à cause d'une blessure ou d'une maladie.
+Cherchez à inclure des utilisateurs présentant des handicaps et [caractéristiques utilisateurs](#userchars){:.termref} variés. La plupart des projets ont des ressources et budget limités, et ne peuvent pas inclure beaucoup d'utilisateurs différents. Choisir le nombre optimal d'utilisateurs ayant les caractérisques les plus appropriées pour votre projet peut se révéler difficile. Il existe des ressources sur le web qui peuvent vous guider dans la sélection de participants en situation de handicap. Par exemple, [déterminer les caractéristiques des participants (en anglais)](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics) et [trouver des participants en situation de handicap (en anglais)](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting).
 
-### Users' Experience Interacting with the Web {#experience}
+### Niveau d'expérience des utilisateurs avec le web {#experience}
 
-A primary consideration in selecting users is their experience interacting with the web. For example, some [assistive technologies](#at){:.termref} (AT) are complicated and difficult to learn. A user with insufficient experience may not know how to use the AT effectively. And a very advanced user might know uncommon work-arounds to overcome problems in a website that the "average" user would not be able to handle.
+Un critère primordial à prendre en compte lors du recrutement d'utilisateurs est leur niveau d'expérience avec le web. Par exemple, il est compliqué et difficile d'apprendre à utiliser certaines [technologies d'assistance](#at){:.termref} (TA). Un utilisateur peu expérimenté peut ne pas savoir comment utiliser efficacement la TA. Et un utilisateur très avancé pourrait connaître des moyens de contournement inhabituels pour surmonter des problèmes d'accessibilité d'un site web qu'un utilisateur "moyen" ne réussirait pas à surmonter.
 
-In the early stages when you are first learning how people with disabilities interact with the web, it is usually best to get people with a fairly high experience level. ([[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/) says more about different experience levels in later evaluation phases.)
+Dans les premiers temps, lorsque vous apprenez comment les personnes en situation de handicap interagissent avec le web, en général, il vaut mieux recruter des personnes qui ont un niveau d'expérience plutôt élevé. ([[Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/) en dit plus sur les différents niveaux d'expérience dans les phases d'évaluation ultérieures.)
 
-Working with Users {#with}
+Travailler avec les utilisateurs {#with}
 ---------------------------
 
-Follow common practices for working with people informally and formally,
-for example:
+Pour travailler de manière formelle et informelle avec vos utilisateurs, suivez les bonnes pratiques. Par exemple : 
 
--   Develop appropriate relationships with your users. For example,
-    spending time talking informally over lunch may help you work
-    together more comfortably.
--   Ensure informed consent and other research ethics. For example,
-    tell participants in studies that they are free to stop at
-    any time.
--   Treat people with disabilities and older users with the respect you
-    would any other users. For example, respect their time and provide
-    appropriate compensation.
+-   Développez une relation avec vos utilisateurs. À titre d'illustration, si vous prenez le temps d'échanger d'abord de manière informelle au cours d'un déjeuner, cela peut ensuite vous aider à travailler plus facilement ensemble.
+-   Assurez à vos utilisateurs un consentement éclairé et, plus globalement, une éthique de recherche. Par exemple, informez les participants dans vos études qu'ils sont libres d'arrêter à tout moment.
+-   Traitez les personnes en situation de handicap et les personnes âgées avec le respect que vous auriez pour n'importe quels utilisateurs. À titre d'illustration, respectez le temps qu'ils vous ont consacré et rémunérez-les de manière appropriée. 
 
-There are resources on the web that provide detailed guidance on working
-with users; for example, [Interacting with People with
-Disabilities](http://uiaccess.com/accessucd/interact.html),
-[Assistive Technology and Location](http://www.uiaccess.com/accessucd/involve.html#atloc),
-and [The RESPECT Code of Practice](http://www.respectproject.org/code/charm.php?id=).
+Il existe des ressources sur le web qui vous guident en détail sur la manière de travailler avec des utilisateurs. Par exemple : [interagir avec les personnes en situation de handicap (en anglais)](http://uiaccess.com/accessucd/interact.html),
+[technologie d'assistance et choix du lieu (en anglais)](http://www.uiaccess.com/accessucd/involve.html#atloc),
+et [le code de conduite RESPECT (en anglais)](http://www.respectproject.org/code/charm.php?id=).
 
-Combine User Involvement with Standards
+Alliez l'implication d'utilisateurs aux standards d'accessibilité
 ------------------------------------------------
 {:#stds}
 
-Including users with disabilities and older users with accessibility needs is key to making your accessibility efforts more effective and more efficient. Yet that alone cannot address all issues. Even large projects cannot cover the [diversity](#diverse) of disabilities, adaptive strategies, and assistive technologies. That is **the role of accessibility standards**.
+Inclure des utilisateurs en situation de handicap et des utilisateurs âgés, ayant des besoins en accessibilité, est clé pour rendre vos efforts en accessibilité plus efficaces et plus efficients. Mais cela, seul, ne suffit pas à résoudre toutes les problématiques. Même de vastes projets ne peuvent pas couvrir la [diversité](#diverse) des handicaps, stratégies d'adaptation, et technologies d'assistance. Ceci est **le rôle des standards d'accessibilité**.
 
--   For websites and web applications, using comprehensive standards
-    such as [Web Content Accessibility Guidelines (WCAG)](/standards-guidelines/wcag/) helps ensure that you address all issues.
-    Combine user involvement with [evaluating conformance to
-    WCAG](/test-evaluate/conformance/) to ensure that
-    accessibility is provided to users with a range of disabilities and
-    situations.
--   For authoring tools such as content management systems (CMS), blog
-    software, and WYSIWYG editors, follow [Authoring Tool Accessibility
-    Guidelines (ATAG)](/standards-guidelines/atag/).
--   For browsers, media players, and other 'user agents', follow [User
-    Agent Accessibility Guidelines
-    (UAAG)](/standards-guidelines/uaag/).
+-   Pour les sites et applications web, utiliser des standards exhaustifs comme les [règles pour l'accessibilité des contenus Web (WCAG)](/standards-guidelines/wcag/) aide à assurer que vous couvrez l'ensemble des problématiques. 
+-   Pour les outils d'édition comme les systèmes de gestion de contenus (SGC, aussi appelés CMS), plateformes de création de blogs et éditeurs WYSIWYG, référez-vous aux [règles pour l'accessibilité des outils d'édition (ATAG)](/standards-guidelines/atag/).
+-   Pour les navigateurs, lecteurs multimedia, et autres "agents utilisateurs", référez-vous aux [règles pour l'accessibilité des agents utilisateurs (UAAG)](/standards-guidelines/uaag/).
 
-More Information and Guidance {#fmi}
+Informations et conseils supplémentaires {#fmi}
 -------------------------------------
 
-This document briefly addresses a few points of a very complex topic.
-Many resources on other aspects of involving users throughout projects
-are available on the web, such as:
+Ce document traite brièvement quelques points d'un sujet très complexe. Plusieurs ressources vous sont accessibles sur le web concernant d'autres aspects de l'implication d'utilisateurs tout au long des projets, notamment :
 
--   **[[Involving Users in Evaluating Web Accessibility]](/test-evaluate/involving-users/)** provides more
-    details on specifically on evaluation with users.
--   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html)
-    provides detailed guidance on incorporating accessibility throughout
-    projects. For example, see [Incorporating Accessibility Early and
-    Throughout](http://uiaccess.com/accessucd/early.html).
+-   **[[Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/)** qui fournit plus de détails, spécifiquement sur la phase d'évaluation avec les utilisateurs.
+-   [Il suffit de demander : intégrer l'accessibilité tout au long de la phase de design (en anglais)](http://www.uiaccess.com/accessucd/overview.html)
+    donne des conseils détaillés sur la manière d'incorporer l'accessibilité tout au long des projets. Par exemple, voir la page : [incorporer l'accessibilité rapidement et tout au long du projet (en anglais)](http://uiaccess.com/accessucd/early.html).
 
-Terminology {#terms}
+Terminologie {#terms}
 ---------------------
 
-**adaptive strategies**{:#strategies}
-:   Adaptive strategies are techniques that people with disabilities use
-    to improve interaction with the web. For example, increasing the font
-    size in a common browser. Adaptive strategies include techniques
-    with mainstream browsers or with [assistive
-    technologies](#at){:.termref}.
+**stratégies d'adaptation**{:#strategies}
+:   Les stratégies d'adaptation sont des techniques que les personnes en situation de handicap mettent en place pour interagir plus facilement avec le web. Augmenter la taille de la police dans un navigateur web grand public en est un exemple. Les stratégies d'adaptation incluent les techniques utilisées avec les navigateurs web grand public ou les [technologies d'assistance](#at){:.termref}. 
 
-**assistive technologies**{:#at}
-:   Assistive technologies are software or equipment that people with
-    disabilities use to improve interaction with the web. For example,
-    **screen readers**{:#screenreader} that read aloud web pages for
-    people who cannot read text, **screen magnifiers** for people with
-    some types of low vision, and **voice recognition software** and
-    **selection switches** for people who cannot use a keyboard or
-    mouse.
+**technologies d'assistance**{:#at}
+:   Les technologies d'assistance sont des logiciels ou du matériel que les personnes en situation de handicap utilisent pour interagir plus facilement avec le web. Parmi ces technologies, on trouve par exemple les **lecteurs d'écran**{:#screenreader} qui lisent à voix haute les pages web pour les personnes qui ne peuvent pas lire du texte, les **agrandisseurs d'écran** pour les personnes qui  présentent une faible acuité visuelle, les **logiciels de reconnaissance vocale** ou encore les **contacteurs** pour les personnes qui ne peuvent pas utiliser un clavier ou une souris. 
 
-**user characteristics**{:#userchars}
-:   User characteristics typically include things like age, job
-    responsibilities, software, hardware, environment (for example,
-    home, shared office, private office, shared public terminal),
-    computer experience, and web experience. User characteristics can
-    also include type of disability, [adaptive
-    strategies](#strategies){:.termref} used, and experience with
-    specific [assistive technologies](#at){:.termref}.
+**caractéristiques utilisateur**{:#userchars}
+:   Les caractéristiques utilisateur incluent typiquement des éléments comme l'âge, les responsabilités professionnelles, les logiciels, l'équipement informatique, l'environnement (par exemple, la maison, un bureau partagé, un bureau privé, un terminal public partagé), le niveau d'expérience informatique ou web. Les caractéristiques utilisateur peuvent aussi inclure le type de handicap, les [stratégies d'adaptation](#strategies){:.termref} utilisées, et le niveau d'expérience avec des [technologies d'assistance](#at){:.termref} spécifiques.
 
-**web content**{:#content}
-:   Web "content" generally refers to the information in a web page or
-    web application, including text, images, forms, sounds, and such.
-    More specific definitions are available in the WCAG documents, which
-    are linked from the [Web Content Accessibility Guidelines (WCAG)
-    Overview](/standards-guidelines/wcag/).
+**contenu web**{:#content}
+:   "Contenu" web fait en général référence aux informations disponibles dans une page ou une application web, y compris les textes, images, formulaires, sons...Des définitions plus spécifiques sont mises à disposition dans les documents WCAG, accessibles depuis la page : [vue d'ensemble des règles pour l'accessibilité des contenus Web (WCAG)](/standards-guidelines/wcag/).
