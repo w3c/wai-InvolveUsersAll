@@ -8,12 +8,12 @@ nav_title: "Impliquer les utilisateurs pour améliorer l'accessibilité"
 lang: fr   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-01-30   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
- translators:   
- - name: "Céline Bouillon"  
+translators:
+- name: "Céline Bouillon"
 
 github:
-  repository: w3c/wai-InvolveUsersAll
-  path: content/index.fr.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+repository: w3c/wai-InvolveUsersAll
+path: content/index.fr.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /planning/involving-users/fr   # Add the language shortcode to the end, with no slash at end, for example: /planning/involving-users/fr
 
 ref: /planning/involving-users/   # Translators, do not change this
@@ -160,7 +160,7 @@ Transcription textuelle avec description des visuels
 
 ## Introduction {#intro}
 
-Impliquer les utilisateurs rapidement dans les projets permet de comprendre les problèmes d'accessibilité qu'ils rencontrent dans la vie réelle. Par exemple, cela permet d'appréhender la manière dont les personnes en situation de handicap ou âgées utilisent le web grâce à des [stratégies d'adaptation](#strategies){:.termref} et des [technologies d'assistance](#at){:.termref}. 
+Impliquer les utilisateurs rapidement dans les projets permet de comprendre les problèmes d'accessibilité qu'ils rencontrent dans la vie réelle. Par exemple, cela permet d'appréhender la manière dont les personnes en situation de handicap ou âgées utilisent le web grâce à des [stratégies d'adaptation](#strategies){:.termref} et des [technologies d'assistance](#at){:.termref}.
 
 Impliquer les utilisateurs en amont des projets permet d'implémenter des solutions plus efficaces pour assurer l'accessibilité. Cela élargit aussi votre perspective, et peut vous amener à repenser votre produit afin qu'il soit utile à un public plus large et dans des contextes plus variés.
 
@@ -168,18 +168,18 @@ Ceci est valable lors de la conception et du développement :
 
 -   de sites et applications web
 -   de navigateurs, lecteurs multimedia, et technologies d'assistance
--   d'outils d'édition comme les systèmes de gestion de contenus (SGC, aussi appelés CMS), plateformes de création de blogs et éditeurs WYSIWYG 
+-   d'outils d'édition comme les systèmes de gestion de contenus (SGC, aussi appelés CMS pour Content Management System), plateformes de création de blogs et éditeurs WYSIWYG (What You See Is What You Get)
 -   de standards et règles d'accessibilité
 -   de technologies et spécifications techniques du web, comme le HTML
 
-Cette page vous aide à démarrer afin que tiriez les bénéfices d'une **implication des utilisateurs — plus particulièrement des personnes en situation de handicap, et des personnes âgées ayant des besoins en accessibilité dûs au vieillissement — rapidement et tout au long de différents types de projets**.
+Cette page vous aide à démarrer afin que vous tiriez les bénéfices d'une **implication des utilisateurs — plus particulièrement des personnes en situation de handicap, et des personnes âgées ayant des besoins en accessibilité dûs au vieillissement — rapidement et tout au long de différents types de projets**.
 
-Une page dédiée se concentre sur la manière d'[[impliquer les utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/fr).
+Une page dédiée se concentre sur la manière d'[impliquer les utilisateurs dans l'évaluation de l'accessibilité Web](/test-evaluate/involving-users/fr).
 
 En quoi rapidement impliquer les utilisateurs peut aider {#why}
 ---------------------------------------
 
-Impliquer les utilisateurs en amont des projets web permet de créer de meilleurs produits pour eux et de rendre les développements plus efficaces. Cela bénéficie aussi aux parties prenantes projets. 
+Impliquer les utilisateurs en amont des projets web permet de créer de meilleurs produits pour eux et de rendre les développements plus efficaces. Cela bénéficie aussi aux parties prenantes projets.
 
 ### Une meilleure accessibilité et utilisabilité pour tous les utilisateurs
 
@@ -189,12 +189,12 @@ Cela bénéficie aux utilisateurs, mais aussi aux parties prenantes projets. Par
 
 ### Des développements plus efficaces
 
-Inclure les utilisateurs dans votre process de développement permet de **développer plus efficacement** des produits accessibles, qui fonctionnent bien pour de véritables utilisateurs dans des situations de la vie réelle. Cela peut vous aider à [maximiser votre retour sur investissement (RSI, aussi appelé ROI)](https://www.w3.org/WAI/business-case/archive/) en termes d'accessibilité.
+Inclure les utilisateurs dans votre process de développement permet de **développer plus efficacement** des produits accessibles, qui fonctionnent bien pour de véritables utilisateurs dans des situations de la vie réelle. Cela peut vous aider à [maximiser votre retour sur investissement (RSI, aussi appelé ROI pour Return On Investment)](https://www.w3.org/WAI/business-case/archive/) en termes d'accessibilité.
 
 Quand vous comprenez comment les personnes utilisent le web et plus particulièrement votre produit, vous pouvez :
 - planifier l'accessibilité dans les phases projets les plus appropriées, dès le départ
 - développer plus rapidement des solutions pour assurer l'accessibilité
-- prendre des décisions éclairées entre différentes possibilités, et éviter de perdre du temps en supposition
+- prendre des décisions éclairées entre différentes possibilités, et éviter de perdre du temps en suppositions
 - limiter le temps passé à revenir sur le code et corriger les bugs
 - éviter d'avoir à faire des compromis plus tard parce que vous avez trop attendu pour tenir compte de l'accessibilité
 - avoir une meilleure idée des standards, lignes directrices et autres exigences d'accessibilité (que vous pourriez avoir à respecter maintenant ou plus tard, par exemple si vous menez des projets pour le gouvernement)
@@ -204,14 +204,14 @@ Tout ceci bénéficie aux développeurs, chefs de projet, et autres parties pren
 ### De la motivation
 
 Quand les designers et développeurs voient des personnes en situation de handicap utiliser leurs produits, la plupart d'entre eux sont très motivés par la découverte d'une nouvelle facette de l'accessibilité. Ils comprennent que l'interaction humaine fait partie intégrante de l'accessibilité. Et ils iront au-delà d'une approche qui réduit ce sujet à une liste d'éléments à cocher. Designers et développeurs peuvent percevoir l'opportunité d'avoir un impact fort, grâce à leur travail, sur la vie des gens.
-Quand les managers et les parties prenantes prennent part à des expériences où les personnes en situation de handicap utilisent leurs produits, cela aide bien souvent à débloquer du budget et des ressources pour planifier et traiter l'accessibilité correctement. 
+Quand les managers et les parties prenantes prennent part à des expériences où les personnes en situation de handicap utilisent leurs produits, cela aide bien souvent à débloquer du budget et des ressources pour planifier et traiter l'accessibilité correctement.
 
 Comment impliquer les utilisateurs tout au long de votre projet {#range}
 ------------------------------------------------------
 
 Cette section se concentre sur la manière d'impliquer de vrais utilisateurs dans votre process. Traitez le sujet de l'accessibilité dès les premières phases de votre projet. Par exemple, tenez compte de l'accessibilité pendant les phases de préparation, budgétisation, planification...Intégrez l'accessibilité dans vos [processes de conception centrée utilisateur (UCD)](http://www.w3.org/WAI/redesign/ucd) ou toute autre méthodologie et technique de conception. Par exemple, assurez-vous d'inclure des personnes en situation de handicap et des personnes âgées dans vos cas utilisateurs, analyses utilisateurs, personas, scénarios, workflows, design walkthroughs...
 
-Vous trouverez ci-dessous les fondamentaux pour intégrer les utilisateurs dans vos projets. Si vous en avez les moyens, envisagez de vous faire accompagner par des spécialistes de l'accessibilité, du handicap et de la conception centrée utilisateur. 
+Vous trouverez ci-dessous les fondamentaux pour intégrer les utilisateurs dans vos projets. Si vous en avez les moyens, envisagez de vous faire accompagner par des spécialistes de l'accessibilité, du handicap et de la conception centrée utilisateur.
 
 ### Inclure les utilisateurs pour comprendre leurs problématiques
 
@@ -225,7 +225,7 @@ Dès que possible dans votre projet :
 
 Par exemple, pour des sites, applications et outils web :
 
-* Quand vous envisagez un design en particulier, comme une navigation qui se plie / déplie, trouvez d'autres produits qui le font déjà. Demandez aux utilisateurs d'étudier avec vous ce qui fonctionne bien ou mal. 
+* Quand vous envisagez un design en particulier, comme une navigation qui se plie / déplie, trouvez d'autres produits qui le font déjà. Demandez aux utilisateurs d'étudier avec vous ce qui fonctionne bien ou mal.
 * Tout au long des phases de design et de développement, demandez aux utilisateurs de tester vos prototypes. Donnez-leur des tâches spécifiques à effectuer, et voyez comment les différents aspects de la conception ou du code pourraient être améliorés. Posez beaucoup de questions.
 
 Pour plus d'informations, voir : [[impliquer les utilisateurs dans l'évaluation de l'accessibilité Web]](/test-evaluate/involving-users/), et plus particulièrement les sections [analyser les problèmes d’accessibilité](/test-evaluate/involving-users/#analyz) et [tirer des conclusions et créer un rapport](/test-evaluate/involving-users/#drawing).
@@ -251,11 +251,11 @@ Dans les premiers temps, lorsque vous apprenez comment les personnes en situatio
 Travailler avec les utilisateurs {#with}
 ---------------------------
 
-Pour travailler de manière formelle et informelle avec vos utilisateurs, suivez les bonnes pratiques. Par exemple : 
+Pour travailler de manière formelle et informelle avec vos utilisateurs, suivez les bonnes pratiques. Par exemple :
 
 -   Développez une relation avec vos utilisateurs. À titre d'illustration, si vous prenez le temps d'échanger d'abord de manière informelle au cours d'un déjeuner, cela peut ensuite vous aider à travailler plus facilement ensemble.
 -   Assurez à vos utilisateurs un consentement éclairé et, plus globalement, une éthique de recherche. Par exemple, informez les participants dans vos études qu'ils sont libres d'arrêter à tout moment.
--   Traitez les personnes en situation de handicap et les personnes âgées avec le respect que vous auriez pour n'importe quels utilisateurs. À titre d'illustration, respectez le temps qu'ils vous ont consacré et rémunérez-les de manière appropriée. 
+-   Traitez les personnes en situation de handicap et les personnes âgées avec le respect que vous auriez pour n'importe quels utilisateurs. À titre d'illustration, respectez le temps qu'ils vous ont consacré et rémunérez-les de manière appropriée.
 
 Il existe des ressources sur le web qui vous guident en détail sur la manière de travailler avec des utilisateurs. Par exemple : [interagir avec les personnes en situation de handicap (en anglais)](http://uiaccess.com/accessucd/interact.html),
 [technologie d'assistance et choix du lieu (en anglais)](http://www.uiaccess.com/accessucd/involve.html#atloc),
@@ -267,7 +267,7 @@ Alliez l'implication d'utilisateurs aux standards d'accessibilité
 
 Inclure des utilisateurs en situation de handicap et des utilisateurs âgés, ayant des besoins en accessibilité, est clé pour rendre vos efforts en accessibilité plus efficaces et plus efficients. Mais cela, seul, ne suffit pas à résoudre toutes les problématiques. Même de vastes projets ne peuvent pas couvrir la [diversité](#diverse) des handicaps, stratégies d'adaptation, et technologies d'assistance. Ceci est **le rôle des standards d'accessibilité**.
 
--   Pour les sites et applications web, utiliser des standards exhaustifs comme les [règles pour l'accessibilité des contenus Web (WCAG)](/standards-guidelines/wcag/) aide à assurer que vous couvrez l'ensemble des problématiques. 
+-   Pour les sites et applications web, utiliser des standards exhaustifs comme les [règles pour l'accessibilité des contenus Web (WCAG)](/standards-guidelines/wcag/) aide à assurer que vous couvrez l'ensemble des problématiques.
 -   Pour les outils d'édition comme les systèmes de gestion de contenus (SGC, aussi appelés CMS), plateformes de création de blogs et éditeurs WYSIWYG, référez-vous aux [règles pour l'accessibilité des outils d'édition (ATAG)](/standards-guidelines/atag/).
 -   Pour les navigateurs, lecteurs multimedia, et autres "agents utilisateurs", référez-vous aux [règles pour l'accessibilité des agents utilisateurs (UAAG)](/standards-guidelines/uaag/).
 
@@ -284,10 +284,10 @@ Terminologie {#terms}
 ---------------------
 
 **stratégies d'adaptation**{:#strategies}
-:   Les stratégies d'adaptation sont des techniques que les personnes en situation de handicap mettent en place pour interagir plus facilement avec le web. Augmenter la taille de la police dans un navigateur web grand public en est un exemple. Les stratégies d'adaptation incluent les techniques utilisées avec les navigateurs web grand public ou les [technologies d'assistance](#at){:.termref}. 
+:   Les stratégies d'adaptation sont des techniques que les personnes en situation de handicap mettent en place pour interagir plus facilement avec le web. Augmenter la taille de la police dans un navigateur web grand public en est un exemple. Les stratégies d'adaptation incluent les techniques utilisées avec les navigateurs web grand public ou les [technologies d'assistance](#at){:.termref}.
 
 **technologies d'assistance**{:#at}
-:   Les technologies d'assistance sont des logiciels ou du matériel que les personnes en situation de handicap utilisent pour interagir plus facilement avec le web. Parmi ces technologies, on trouve par exemple les **lecteurs d'écran**{:#screenreader} qui lisent à voix haute les pages web pour les personnes qui ne peuvent pas lire du texte, les **agrandisseurs d'écran** pour les personnes qui  présentent une faible acuité visuelle, les **logiciels de reconnaissance vocale** ou encore les **contacteurs** pour les personnes qui ne peuvent pas utiliser un clavier ou une souris. 
+:   Les technologies d'assistance sont des logiciels ou du matériel que les personnes en situation de handicap utilisent pour interagir plus facilement avec le web. Parmi ces technologies, on trouve par exemple les **lecteurs d'écran**{:#screenreader} qui lisent à voix haute les pages web pour les personnes qui ne peuvent pas lire du texte, les **agrandisseurs d'écran** pour les personnes qui  présentent une faible acuité visuelle, les **logiciels de reconnaissance vocale** ou encore les **contacteurs** pour les personnes qui ne peuvent pas utiliser un clavier ou une souris.
 
 **caractéristiques utilisateur**{:#userchars}
 :   Les caractéristiques utilisateur incluent typiquement des éléments comme l'âge, les responsabilités professionnelles, les logiciels, l'équipement informatique, l'environnement (par exemple, la maison, un bureau partagé, un bureau privé, un terminal public partagé), le niveau d'expérience informatique ou web. Les caractéristiques utilisateur peuvent aussi inclure le type de handicap, les [stratégies d'adaptation](#strategies){:.termref} utilisées, et le niveau d'expérience avec des [technologies d'assistance](#at){:.termref} spécifiques.
