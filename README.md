@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3d67090-5f33-4748-9061-f908d3055384/deploy-status)](https://app.netlify.com/sites/wai-involveusersall/deploys)
+> [!IMPORTANT]
+> This repository will soon been archived.
+>
+> [VInvolving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/planning/involving-users/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
